@@ -1,6 +1,6 @@
 {
   "name": "@patrtorg/tenetur-animi-reprehenderit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -461,7 +461,7 @@
     "url": "https://github.com/patrtorg/tenetur-animi-reprehenderit/issues"
   },
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^1.0.4",
+    "@dramaorg/esse-praesentium-eligendi": "^1.1.4",
     "@juigorg/sit-nam-neque": "^1.0.4",
     "@kollorg/dicta-itaque-nemo": "^1.0.4",
     "@swenkerorg/modi-dolorum-provident": "^1.1.3",

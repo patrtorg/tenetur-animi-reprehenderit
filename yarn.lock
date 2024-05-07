@@ -9,10 +9,10 @@
   dependencies:
     regenerator-runtime "^0.14.0"
 
-"@dramaorg/esse-praesentium-eligendi@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-1.0.4.tgz#e979d34ad3406cfed187b521d2d80a2c9f8e5914"
-  integrity sha512-U3xblUfkOkMfxEjB+XH47wKBclfBIZV8N3EQpDPIkmNa3MuVrsW73nsM+DJizqSYmUR9r42W01PbCK+HQiaM4g==
+"@dramaorg/esse-praesentium-eligendi@^1.1.4":
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-1.1.4.tgz#0efcec68a94dffb610c8031140248fe10edf625c"
+  integrity sha512-jS8NENLMitWAPZ/8Z4WBDkBLI/95n2QINrtQvar5jKyRAOO7P+b3Sq4s1v8T61tOpGjxDpHJUvPvFBiyXNMMqg==
   dependencies:
     "@dramaorg/psychic-couscous" "^1.1.5"
     "@dramaorg/shiny-waddle" "^1.1.4"
