@@ -1,6 +1,6 @@
 {
   "name": "@patrtorg/tenetur-animi-reprehenderit",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -461,11 +461,11 @@
     "url": "https://github.com/patrtorg/tenetur-animi-reprehenderit/issues"
   },
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^2.3.17",
-    "@juigorg/sit-nam-neque": "^1.0.20",
-    "@kollorg/dicta-itaque-nemo": "^1.1.19",
-    "@swenkerorg/modi-dolorum-provident": "^3.3.15",
-    "@zitterorg/aspernatur-pariatur-occaecati": "^6.3.12",
+    "@dramaorg/esse-praesentium-eligendi": "^2.3.18",
+    "@juigorg/sit-nam-neque": "^1.0.21",
+    "@kollorg/dicta-itaque-nemo": "^1.1.20",
+    "@swenkerorg/modi-dolorum-provident": "^3.3.16",
+    "@zitterorg/aspernatur-pariatur-occaecati": "^6.3.13",
     "analsorhost-simple-bs": "^1.0.1",
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
